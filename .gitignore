@@ -37,3 +37,6 @@ coverage/
 
 # Optional npm cache
 .npm
+
+# Upload
+uploads/
